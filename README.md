@@ -1,5 +1,5 @@
 # portfolio
-## NOM:KHEDRI   PRENOM:Manel
+## KHEDRI Manel
 
 Project Description
 
@@ -23,4 +23,5 @@ Features Implemented
 - Responsive Design: Adapts the layout to different screen sizes, including desktop and mobile devices.
 - Interactive Navigation: Provides links between the different portfolio pages, with visual click effects.
 
-
+To Explore The Portfolio:
+https://manelkhedri.github.io/portfolio/
